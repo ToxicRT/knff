@@ -33,7 +33,7 @@
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
     "snekfetch": "^4.0.4",
-    "superagent": "^5.0.5",
+    "superagent": "^6.0.0",
     "urban": "^0.3.2",
     "uws": "^100.0.1",
     "ws": "^6.2.1",
